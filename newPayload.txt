@@ -1,1 +1,0 @@
-This is the payload that should trigger the function app thank u very much.
